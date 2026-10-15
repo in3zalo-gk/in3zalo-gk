@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Marcos Vinicius — criador e desenvolvedor" width="100%" />
+  <img src="assets/banner.svg" alt="SayNoob_TYT — criador e desenvolvedor" width="100%" />
 
-  <h1>Oi, eu sou o Marcos 👋</h1>
+  <h1>Oi, eu sou o Say 👋</h1>
   <p><strong>Desenvolvedor e criador de projetos digitais</strong></p>
   <p>Transformo ideias em apps Android, experiências no Roblox e projetos para Minecraft Bedrock.</p>
 </div>
@@ -21,7 +21,6 @@ Sou criador da **TYT Studio's** e gosto de construir coisas que misturam tecnolo
 
 | Projeto | O que é |
 |:--|:--|
-| [**Pixi**](https://github.com/in3zalo-gk/pixi) | Um projeto Android inspirado no Coucou |
 | [**SmartIsland**](https://github.com/in3zalo-gk/SmartIsland) | Experiência de Dynamic Island para Android |
 | [**LeviVision**](https://github.com/in3zalo-gk/LeviVision) | Projeto visual para o ecossistema LeviLauncher |
 | [**Newb X Dark Manager**](https://github.com/in3zalo-gk/NewbX-DarkManager) | Shader RenderDragon com uma estética de fantasia sombria |
