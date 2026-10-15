@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Marcos Vinicius — developer and creator</title>
+  <desc id="desc">Dark violet and indigo banner with soft glowing shapes and a creative technology theme.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090b18"/>
+      <stop offset="0.55" stop-color="#17112f"/>
+      <stop offset="1" stop-color="#101a2c"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="0.52" stop-color="#56d8ff"/>
+      <stop offset="1" stop-color="#bd8cff"/>
+    </linearGradient>
+    <radialGradient id="glowA">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB">
+      <stop offset="0" stop-color="#37d8ef" stop-opacity=".19"/>
+      <stop offset="1" stop-color="#37d8ef" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#d6d9ff" stroke-opacity=".045" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="28" fill="url(#grid)"/>
+  <circle cx="980" cy="62" r="280" fill="url(#glowA)"/>
+  <circle cx="180" cy="310" r="250" fill="url(#glowB)"/>
+  <path d="M0 270C240 230 330 340 590 285s420-90 610-24" fill="none" stroke="url(#line)" stroke-opacity=".58" stroke-width="2"/>
+  <path d="M0 291C245 251 347 357 607 302s404-83 593-20" fill="none" stroke="#a5b4fc" stroke-opacity=".18" stroke-width="1"/>
+  <g fill="#dfe5ff" fill-opacity=".72">
+    <circle cx="1000" cy="90" r="2"/><circle cx="1070" cy="142" r="1.5"/><circle cx="920" cy="205" r="1.5"/>
+    <circle cx="1110" cy="74" r="1.5"/><circle cx="865" cy="110" r="1"/><circle cx="1038" cy="230" r="1.5"/>
+  </g>
+  <rect x="72" y="74" width="8" height="118" rx="4" fill="url(#line)"/>
+  <text x="108" y="128" fill="#f7f7ff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="750" letter-spacing="1">MARCOS VINICIUS</text>
+  <text x="110" y="172" fill="#c5c8e8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" letter-spacing="3">DEVELOPER  ·  CREATOR  ·  DREAMER</text>
+  <g transform="translate(110 218)">
+    <rect width="126" height="34" rx="17" fill="#ffffff" fill-opacity=".07" stroke="#b7a5ff" stroke-opacity=".48"/>
+    <text x="63" y="22" text-anchor="middle" fill="#e6dcff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">ANDROID</text>
+    <rect x="138" width="112" height="34" rx="17" fill="#ffffff" fill-opacity=".07" stroke="#77e6f2" stroke-opacity=".42"/>
+    <text x="194" y="22" text-anchor="middle" fill="#d7faff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">GAMES</text>
+    <rect x="262" width="136" height="34" rx="17" fill="#ffffff" fill-opacity=".07" stroke="#b7a5ff" stroke-opacity=".38"/>
+    <text x="330" y="22" text-anchor="middle" fill="#e6dcff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">CREATIVE TECH</text>
+  </g>
+</svg>
