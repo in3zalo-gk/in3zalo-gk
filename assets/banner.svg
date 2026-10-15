@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-  <title id="title">Marcos Vinicius — developer and creator</title>
+  <title id="title">SayNoob_TYT — developer and creator</title>
   <desc id="desc">Dark violet and indigo banner with soft glowing shapes and a creative technology theme.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -35,7 +35,7 @@
     <circle cx="1110" cy="74" r="1.5"/><circle cx="865" cy="110" r="1"/><circle cx="1038" cy="230" r="1.5"/>
   </g>
   <rect x="72" y="74" width="8" height="118" rx="4" fill="url(#line)"/>
-  <text x="108" y="128" fill="#f7f7ff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="750" letter-spacing="1">MARCOS VINICIUS</text>
+  <text x="108" y="128" fill="#f7f7ff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="750" letter-spacing="1">SayNoob_TYT</text>
   <text x="110" y="172" fill="#c5c8e8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" letter-spacing="3">DEVELOPER  ·  CREATOR  ·  DREAMER</text>
   <g transform="translate(110 218)">
     <rect width="126" height="34" rx="17" fill="#ffffff" fill-opacity=".07" stroke="#b7a5ff" stroke-opacity=".48"/>
