@@ -1,38 +1,53 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="SayNoob_TYT — developer and creator" width="100%" />
+<img src="assets/marcos-banner.svg" alt="Marcos / SayNoob_TYT — Sites, dashboards e projetos digitais" width="100%">
 
-  <h1>Oi, eu sou SayNoob_TYT 👋</h1>
-  <p><strong>Desenvolvedor e criador de projetos digitais</strong></p>
-  <p>Transformo ideias em apps Android, experiências no Roblox e projetos para Minecraft Bedrock.</p>
+# Oi, eu sou o Marcos
+
+**Sites personalizados · Dashboards · Interfaces de gestão**
+
+Também conhecido como **SayNoob_TYT**, criador da TYT Studios.
+
+[Explorar meu portfólio](https://in3zalo-gk.github.io/marcos-portfolio/) · [Conhecer os repositórios](https://github.com/in3zalo-gk?tab=repositories)
 </div>
+
+## O que estou construindo
+
+Crio demonstrações de sites e interfaces para pequenos negócios, com foco em navegação clara, personalização e uso no celular. Também exploro Android, Roblox e Minecraft Bedrock.
+
+Este perfil reúne projetos de estudo, experimentos e conceitos comerciais. As demonstrações abaixo **não representam clientes contratados ou resultados comerciais comprovados**.
+
+## Projetos web para explorar
+
+| Projeto | O que você pode testar | Links |
+|---|---|---|
+| **Atlas** | Dashboard financeiro, períodos, busca e exportação CSV | [Abrir demo](https://in3zalo-gk.github.io/atlas-dashboard/) · [Código](https://github.com/in3zalo-gk/atlas-dashboard) |
+| **Fluxo** | Painel de pedidos, criação e atualização de status | [Abrir demo](https://in3zalo-gk.github.io/fluxo-painel/) · [Código](https://github.com/in3zalo-gk/fluxo-painel) |
+| **Órbita** | Conceito SaaS com landing e workspace de tarefas | [Abrir demo](https://in3zalo-gk.github.io/orbita-saas/) · [Código](https://github.com/in3zalo-gk/orbita-saas) |
+| **Portfólio** | Apresentação, filtros, temas e projetos interativos | [Abrir site](https://in3zalo-gk.github.io/marcos-portfolio/) · [Código](https://github.com/in3zalo-gk/marcos-portfolio) |
+| **Zyon / conceito independente** | Vitrine, agendamento e painel simulados | [Abrir demo](https://zyon-conceito-demo.pages.dev/) |
+
+> Dados e valores fictícios. Sem autenticação, pagamentos, agendamentos ou envio de pedidos reais. Os protótipos estáticos não substituem um sistema de produção. O conceito Zyon não possui vínculo ou aprovação da empresa.
+
+## Outros caminhos que exploro
+
+- **[IconBro](https://github.com/in3zalo-gk/IconBro):** fork comunitário não oficial do Iconify; suporte experimental ao Android 14. Créditos e limitações no projeto.
+- **[MotoG24 QuickSettings](https://github.com/in3zalo-gk/MotoG24-QuickSettings):** protótipo reversível Xposed para tiles de configurações rápidas.
+- **[LeviVision](https://github.com/in3zalo-gk/LeviVision):** projeto para LeviLaunchroid com compatibilidade antiga; desatualizado.
+- **[NewbX DarkManager](https://github.com/in3zalo-gk/NewbX-DarkManager):** shader experimental; desatualizado e incompatível com 1.26.52+.
+
+## Tecnologias nos projetos
+
+`HTML` · `CSS` · `JavaScript` · `Kotlin` · `Java` · `C++` · `Python`
+
+## Minha atividade no GitHub
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in3zalo-gk/in3zalo-gk/main/assets/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/in3zalo-gk/in3zalo-gk/main/assets/github-snake.svg">
+  <img alt="Animação de uma cobrinha percorrendo meu gráfico real de contribuições" src="https://raw.githubusercontent.com/in3zalo-gk/in3zalo-gk/main/assets/github-snake.svg" width="100%">
+</picture>
+
+A cobrinha usa meu calendário real de contribuições e é atualizada diariamente por GitHub Actions. É uma animação SVG, não um jogo controlável dentro do perfil. Gerada com [Platane/snk](https://github.com/Platane/snk).
 
 ---
-
-### ✦ Sobre mim
-
-Sou criador da **TYT Studios** e gosto de construir coisas que misturam tecnologia, criatividade e personalidade. Trabalho com desenvolvimento Android, jogos e personalização de experiências — sempre buscando soluções práticas e leves.
-
-- 📱 Android: apps e personalização do sistema
-- 🎮 Roblox: jogos, mecânicas e sistemas de gameplay
-- ⛏️ Minecraft Bedrock: add-ons, shaders e RenderDragon
-- 🧪 Também exploro automações e ideias experimentais
-
-### 🚀 Projetos em destaque
-
-| Projeto | Status / descrição |
-|:--|:--|
-| [**SmartIsland**](https://github.com/in3zalo-gk/SmartIsland) | Fork de código aberto para uma experiência Dynamic Island no Android; consulte a licença e os créditos originais |
-| [**LeviVision**](https://github.com/in3zalo-gk/LeviVision) | Projeto para LeviLaunchroid — ⚠️ desatualizado; compatibilidade antiga |
-| [**Newb X Dark Manager**](https://github.com/in3zalo-gk/NewbX-DarkManager) | Shader de fantasia sombria — ⚠️ desatualizado; não funciona em Minecraft Bedrock 1.26.52+ |
-
-### 🛠️ Tecnologias e ferramentas
-
-`Kotlin` · `C++` · `Lua` · `Python` · `Android` · `Roblox Studio` · `Minecraft Bedrock`
-
-### 🌙 O que me inspira
-
-Interfaces bem pensadas, mundos de fantasia, mods criativos e projetos que funcionam de verdade — inclusive em dispositivos mais simples.
-
-<div align="center">
-  <sub>Feito com criatividade no Brasil 🇧🇷 · © 2026 SayNoob_TYT</sub>
-</div>
+<sub>Marcos / SayNoob_TYT · TYT Studios · Portfólio em construção</sub>
