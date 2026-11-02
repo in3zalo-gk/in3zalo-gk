@@ -10,7 +10,6 @@ Também conhecido como **SayNoob_TYT**, criador da TYT Studios.
 [Explorar meu portfólio](https://in3zalo-gk.github.io/marcos-portfolio/) · [Conhecer os repositórios](https://github.com/in3zalo-gk?tab=repositories)
 </div>
 
-## Cobrinha em destaque
 
 Meu calendário de contribuições vira uma animação: a cobrinha percorre os quadrados da minha atividade real no GitHub.
 
